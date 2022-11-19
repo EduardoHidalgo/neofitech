@@ -1,6 +1,6 @@
 ---
 title: 'My first Post'
-status: 'draft'
+status: 'published'
 author:
   name: 'Eduardo Hidalgo'
   picture: 'https://avatars.githubusercontent.com/u/30780192?v=4'
